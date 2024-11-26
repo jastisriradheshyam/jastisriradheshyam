@@ -2,7 +2,7 @@
 
 PGP ID: `DD0AE7D560A5C5DB`
 
-## Social
+## Social / Credentials
 
 - [LinkedIn](https://www.linkedin.com/in/jastisriradheshyam/)
 - [X (formally Twitter)](https://twitter.com/j_sriradheshyam)
