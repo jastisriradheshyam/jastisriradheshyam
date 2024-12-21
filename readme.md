@@ -7,6 +7,7 @@ PGP ID: `DD0AE7D560A5C5DB`
 - [LinkedIn](https://www.linkedin.com/in/jastisriradheshyam/)
 - [X (formally Twitter)](https://twitter.com/j_sriradheshyam)
 - [Credly](https://www.credly.com/users/jastisriradheshyam)
+- [Leetcode](https://leetcode.com/u/internet_vegabond/)
 
 ## Open source contributions
 
